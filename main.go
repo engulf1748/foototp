@@ -61,8 +61,8 @@ Commands:
 	encrypt
 	list
 Options:
-	-v Verbose mode. Use with commands 'add' and 'list'.
-	-C Copy generated code to clipboard (when used with 'add' and 'generate').
+	-v Verbose mode (when used with 'add' or 'list').
+	-c Copy generated code to clipboard (when used with 'add' or 'generate').
 `) // why Stderr?
 	os.Exit(2) // why 2?
 }
