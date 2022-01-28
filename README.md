@@ -86,8 +86,6 @@ $ go build -o foototp .
 $ mv ./foototp ~/.local/bin
 ```
 
-## Requirements
-
 
 ## Why 2FA?
 
