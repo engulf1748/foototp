@@ -3,7 +3,7 @@ module codeberg.org/ar324/foototp
 go 1.17
 
 require (
-	codeberg.org/ar324/otp v1.0.0
+	codeberg.org/ar324/otp v1.0.1
 	github.com/atotto/clipboard v0.1.4
 	golang.org/x/crypto v0.0.0-20220126234351-aa10faf2a1f8
 )

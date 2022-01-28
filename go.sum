@@ -1,5 +1,7 @@
 codeberg.org/ar324/otp v1.0.0 h1:63VFqAlzkyClM9r3jOB3wnktFw/sL15VMWOjxI/lHCQ=
 codeberg.org/ar324/otp v1.0.0/go.mod h1:NG7AXZdZODZV0r1n4h4qWogo/T1sIbC6n23hEkLkaCU=
+codeberg.org/ar324/otp v1.0.1 h1:1stURPig3lwSyBb7MT4sUodvtc9KzQ/FW107QCenyYA=
+codeberg.org/ar324/otp v1.0.1/go.mod h1:NG7AXZdZODZV0r1n4h4qWogo/T1sIbC6n23hEkLkaCU=
 github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
 github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
 golang.org/x/crypto v0.0.0-20220126234351-aa10faf2a1f8 h1:kACShD3qhmr/3rLmg1yXyt+N4HcwutKyPRB93s54TIU=
